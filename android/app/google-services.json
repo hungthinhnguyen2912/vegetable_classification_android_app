@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021926180948",
+    "project_id": "classification-vegetable",
+    "storage_bucket": "classification-vegetable.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021926180948:android:5b9a17efafbfb7cd8705c1",
+        "android_client_info": {
+          "package_name": "com.example.untitled2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdu3W1FtgCdqD7fGr_mQAyab5QX-a5srE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
